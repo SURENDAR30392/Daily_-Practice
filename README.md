@@ -31,4 +31,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/SURENDAR30392/Daily_-Practice/tree/master/0268-missing-number) |
+| [3950-exactly-one-consecutive-set-bits-pair](https://github.com/SURENDAR30392/Daily_-Practice/tree/master/3950-exactly-one-consecutive-set-bits-pair) |
 <!---LeetCode Topics End-->
