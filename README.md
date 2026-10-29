@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/SURENDAR30392/Daily_-Practice/tree/master/0088-merge-sorted-array) |
 | [0268-missing-number](https://github.com/SURENDAR30392/Daily_-Practice/tree/master/0268-missing-number) |
+| [0560-subarray-sum-equals-k](https://github.com/SURENDAR30392/Daily_-Practice/tree/master/0560-subarray-sum-equals-k) |
 ## Two Pointers
 |  |
 | ------- |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/SURENDAR30392/Daily_-Practice/tree/master/0268-missing-number) |
+| [0560-subarray-sum-equals-k](https://github.com/SURENDAR30392/Daily_-Practice/tree/master/0560-subarray-sum-equals-k) |
 ## Math
 |  |
 | ------- |
@@ -32,4 +34,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/SURENDAR30392/Daily_-Practice/tree/master/0268-missing-number) |
 | [3950-exactly-one-consecutive-set-bits-pair](https://github.com/SURENDAR30392/Daily_-Practice/tree/master/3950-exactly-one-consecutive-set-bits-pair) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/SURENDAR30392/Daily_-Practice/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
