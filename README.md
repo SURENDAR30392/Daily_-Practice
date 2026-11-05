@@ -49,11 +49,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/SURENDAR30392/Daily_-Practice/tree/master/0020-valid-parentheses) |
 | [0389-find-the-difference](https://github.com/SURENDAR30392/Daily_-Practice/tree/master/0389-find-the-difference) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/SURENDAR30392/Daily_-Practice/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/SURENDAR30392/Daily_-Practice/tree/master/0020-valid-parentheses) |
 | [0739-daily-temperatures](https://github.com/SURENDAR30392/Daily_-Practice/tree/master/0739-daily-temperatures) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/SURENDAR30392/Daily_-Practice/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Monotonic Stack
 |  |
 | ------- |
