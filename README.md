@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/SURENDAR30392/Daily_-Practice/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/SURENDAR30392/Daily_-Practice/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/SURENDAR30392/Daily_-Practice/tree/master/0560-subarray-sum-equals-k) |
+| [0682-baseball-game](https://github.com/SURENDAR30392/Daily_-Practice/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/SURENDAR30392/Daily_-Practice/tree/master/0739-daily-temperatures) |
 ## Two Pointers
 |  |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/SURENDAR30392/Daily_-Practice/tree/master/0020-valid-parentheses) |
+| [0682-baseball-game](https://github.com/SURENDAR30392/Daily_-Practice/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/SURENDAR30392/Daily_-Practice/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/SURENDAR30392/Daily_-Practice/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/SURENDAR30392/Daily_-Practice/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -70,5 +72,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/SURENDAR30392/Daily_-Practice/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/SURENDAR30392/Daily_-Practice/tree/master/0844-backspace-string-compare) |
 <!---LeetCode Topics End-->
