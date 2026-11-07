@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/SURENDAR30392/Daily_-Practice/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/SURENDAR30392/Daily_-Practice/tree/master/0739-daily-temperatures) |
 | [1480-running-sum-of-1d-array](https://github.com/SURENDAR30392/Daily_-Practice/tree/master/1480-running-sum-of-1d-array) |
+| [1672-richest-customer-wealth](https://github.com/SURENDAR30392/Daily_-Practice/tree/master/1672-richest-customer-wealth) |
 ## Two Pointers
 |  |
 | ------- |
@@ -76,4 +77,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0682-baseball-game](https://github.com/SURENDAR30392/Daily_-Practice/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/SURENDAR30392/Daily_-Practice/tree/master/0844-backspace-string-compare) |
+## Matrix
+|  |
+| ------- |
+| [1672-richest-customer-wealth](https://github.com/SURENDAR30392/Daily_-Practice/tree/master/1672-richest-customer-wealth) |
 <!---LeetCode Topics End-->
