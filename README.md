@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/SURENDAR30392/Daily_-Practice/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/SURENDAR30392/Daily_-Practice/tree/master/0560-subarray-sum-equals-k) |
 | [0682-baseball-game](https://github.com/SURENDAR30392/Daily_-Practice/tree/master/0682-baseball-game) |
+| [0704-binary-search](https://github.com/SURENDAR30392/Daily_-Practice/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/SURENDAR30392/Daily_-Practice/tree/master/0739-daily-temperatures) |
 | [1480-running-sum-of-1d-array](https://github.com/SURENDAR30392/Daily_-Practice/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/SURENDAR30392/Daily_-Practice/tree/master/1672-richest-customer-wealth) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/SURENDAR30392/Daily_-Practice/tree/master/0268-missing-number) |
+| [0704-binary-search](https://github.com/SURENDAR30392/Daily_-Practice/tree/master/0704-binary-search) |
 ## Bit Manipulation
 |  |
 | ------- |
