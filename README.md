@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/SURENDAR30392/Daily_-Practice/tree/master/0268-missing-number) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/SURENDAR30392/Daily_-Practice/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1486-xor-operation-in-an-array](https://github.com/SURENDAR30392/Daily_-Practice/tree/master/1486-xor-operation-in-an-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/SURENDAR30392/Daily_-Practice/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/SURENDAR30392/Daily_-Practice/tree/master/0389-find-the-difference) |
+| [1486-xor-operation-in-an-array](https://github.com/SURENDAR30392/Daily_-Practice/tree/master/1486-xor-operation-in-an-array) |
 | [3950-exactly-one-consecutive-set-bits-pair](https://github.com/SURENDAR30392/Daily_-Practice/tree/master/3950-exactly-one-consecutive-set-bits-pair) |
 ## Prefix Sum
 |  |
