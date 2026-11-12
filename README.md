@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/SURENDAR30392/Daily_-Practice/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/SURENDAR30392/Daily_-Practice/tree/master/0014-longest-common-prefix) |
 | [0088-merge-sorted-array](https://github.com/SURENDAR30392/Daily_-Practice/tree/master/0088-merge-sorted-array) |
 | [0238-product-of-array-except-self](https://github.com/SURENDAR30392/Daily_-Practice/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/SURENDAR30392/Daily_-Practice/tree/master/0268-missing-number) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/SURENDAR30392/Daily_-Practice/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/SURENDAR30392/Daily_-Practice/tree/master/0020-valid-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/SURENDAR30392/Daily_-Practice/tree/master/0151-reverse-words-in-a-string) |
 | [0389-find-the-difference](https://github.com/SURENDAR30392/Daily_-Practice/tree/master/0389-find-the-difference) |
@@ -101,4 +103,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1071-greatest-common-divisor-of-strings](https://github.com/SURENDAR30392/Daily_-Practice/tree/master/1071-greatest-common-divisor-of-strings) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/SURENDAR30392/Daily_-Practice/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
