@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/SURENDAR30392/Daily_-Practice/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/SURENDAR30392/Daily_-Practice/tree/master/0151-reverse-words-in-a-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/SURENDAR30392/Daily_-Practice/tree/master/0345-reverse-vowels-of-a-string) |
 | [0844-backspace-string-compare](https://github.com/SURENDAR30392/Daily_-Practice/tree/master/0844-backspace-string-compare) |
 | [1768-merge-strings-alternately](https://github.com/SURENDAR30392/Daily_-Practice/tree/master/1768-merge-strings-alternately) |
 ## Sorting
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/SURENDAR30392/Daily_-Practice/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/SURENDAR30392/Daily_-Practice/tree/master/0020-valid-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/SURENDAR30392/Daily_-Practice/tree/master/0151-reverse-words-in-a-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/SURENDAR30392/Daily_-Practice/tree/master/0345-reverse-vowels-of-a-string) |
 | [0389-find-the-difference](https://github.com/SURENDAR30392/Daily_-Practice/tree/master/0389-find-the-difference) |
 | [0844-backspace-string-compare](https://github.com/SURENDAR30392/Daily_-Practice/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/SURENDAR30392/Daily_-Practice/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
