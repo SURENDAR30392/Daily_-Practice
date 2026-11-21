@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/SURENDAR30392/Daily_-Practice/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/SURENDAR30392/Daily_-Practice/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/SURENDAR30392/Daily_-Practice/tree/master/0605-can-place-flowers) |
+| [0645-set-mismatch](https://github.com/SURENDAR30392/Daily_-Practice/tree/master/0645-set-mismatch) |
 | [0682-baseball-game](https://github.com/SURENDAR30392/Daily_-Practice/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/SURENDAR30392/Daily_-Practice/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/SURENDAR30392/Daily_-Practice/tree/master/0739-daily-temperatures) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/SURENDAR30392/Daily_-Practice/tree/master/0088-merge-sorted-array) |
 | [0268-missing-number](https://github.com/SURENDAR30392/Daily_-Practice/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/SURENDAR30392/Daily_-Practice/tree/master/0389-find-the-difference) |
+| [0645-set-mismatch](https://github.com/SURENDAR30392/Daily_-Practice/tree/master/0645-set-mismatch) |
 ## Hash Table
 |  |
 | ------- |
@@ -41,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/SURENDAR30392/Daily_-Practice/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/SURENDAR30392/Daily_-Practice/tree/master/0389-find-the-difference) |
 | [0560-subarray-sum-equals-k](https://github.com/SURENDAR30392/Daily_-Practice/tree/master/0560-subarray-sum-equals-k) |
+| [0645-set-mismatch](https://github.com/SURENDAR30392/Daily_-Practice/tree/master/0645-set-mismatch) |
 ## Math
 |  |
 | ------- |
@@ -57,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/SURENDAR30392/Daily_-Practice/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/SURENDAR30392/Daily_-Practice/tree/master/0389-find-the-difference) |
+| [0645-set-mismatch](https://github.com/SURENDAR30392/Daily_-Practice/tree/master/0645-set-mismatch) |
 | [1486-xor-operation-in-an-array](https://github.com/SURENDAR30392/Daily_-Practice/tree/master/1486-xor-operation-in-an-array) |
 | [3950-exactly-one-consecutive-set-bits-pair](https://github.com/SURENDAR30392/Daily_-Practice/tree/master/3950-exactly-one-consecutive-set-bits-pair) |
 ## Prefix Sum
