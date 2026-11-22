@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/SURENDAR30392/Daily_-Practice/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/SURENDAR30392/Daily_-Practice/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/SURENDAR30392/Daily_-Practice/tree/master/0014-longest-common-prefix) |
 | [0088-merge-sorted-array](https://github.com/SURENDAR30392/Daily_-Practice/tree/master/0088-merge-sorted-array) |
 | [0238-product-of-array-except-self](https://github.com/SURENDAR30392/Daily_-Practice/tree/master/0238-product-of-array-except-self) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/SURENDAR30392/Daily_-Practice/tree/master/0011-container-with-most-water) |
 | [0088-merge-sorted-array](https://github.com/SURENDAR30392/Daily_-Practice/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/SURENDAR30392/Daily_-Practice/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/SURENDAR30392/Daily_-Practice/tree/master/0345-reverse-vowels-of-a-string) |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/SURENDAR30392/Daily_-Practice/tree/master/0011-container-with-most-water) |
 | [0605-can-place-flowers](https://github.com/SURENDAR30392/Daily_-Practice/tree/master/0605-can-place-flowers) |
 ## Dynamic Programming
 |  |
