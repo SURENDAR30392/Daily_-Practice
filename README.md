@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1470-shuffle-the-array](https://github.com/SURENDAR30392/Daily_-Practice/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/SURENDAR30392/Daily_-Practice/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/SURENDAR30392/Daily_-Practice/tree/master/1672-richest-customer-wealth) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/SURENDAR30392/Daily_-Practice/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1929-concatenation-of-array](https://github.com/SURENDAR30392/Daily_-Practice/tree/master/1929-concatenation-of-array) |
 ## Two Pointers
 |  |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/SURENDAR30392/Daily_-Practice/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/SURENDAR30392/Daily_-Practice/tree/master/0443-string-compression) |
 | [0844-backspace-string-compare](https://github.com/SURENDAR30392/Daily_-Practice/tree/master/0844-backspace-string-compare) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/SURENDAR30392/Daily_-Practice/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1768-merge-strings-alternately](https://github.com/SURENDAR30392/Daily_-Practice/tree/master/1768-merge-strings-alternately) |
 ## Sorting
 |  |
@@ -39,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/SURENDAR30392/Daily_-Practice/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/SURENDAR30392/Daily_-Practice/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/SURENDAR30392/Daily_-Practice/tree/master/0645-set-mismatch) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/SURENDAR30392/Daily_-Practice/tree/master/1679-max-number-of-k-sum-pairs) |
 ## Hash Table
 |  |
 | ------- |
@@ -47,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/SURENDAR30392/Daily_-Practice/tree/master/0389-find-the-difference) |
 | [0560-subarray-sum-equals-k](https://github.com/SURENDAR30392/Daily_-Practice/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/SURENDAR30392/Daily_-Practice/tree/master/0645-set-mismatch) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/SURENDAR30392/Daily_-Practice/tree/master/1679-max-number-of-k-sum-pairs) |
 ## Math
 |  |
 | ------- |
